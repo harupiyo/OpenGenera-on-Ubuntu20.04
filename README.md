@@ -97,7 +97,7 @@ $ sudo ip link set dev tap0 up
 $ # そののち、./genela で起動します
 $ cd ~/genera
 $ ./genera				# Open Genera 2.0 が起動しました
-``
+```
 
 私はこの部分をシェルスクリプトにしましたが、TUN/TAP 周りについては毎回設定しなくてすむ方法があるはずです。
 
